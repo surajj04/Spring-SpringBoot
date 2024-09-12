@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="alien" class="org.bytetech.Alien" autowire="byName">
+        <!--        <constructor-arg ref="lap"/>-->
+        <!--        <property name="comp" ref="lap"/>-->
+    </bean>
+
+    <bean id="alien1" class="org.bytetech.Alien" autowire="byType">
+
+    </bean>
+
+    <bean id="alien2" class="org.bytetech.Alien" autowire="byType">
+        <property name="comp">
+            <bean id="comp" class="org.bytetech.Laptop" primary="true"/>
+        </property>
+    </bean>
+
+<!--    <bean id="comp" class="org.bytetech.Laptop" primary="true"/>-->
+<!--    <bean id="desk" class="org.bytetech.Desktop" lazy-init="true"/>-->
+</beans>

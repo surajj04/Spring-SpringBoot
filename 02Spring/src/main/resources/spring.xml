@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <!--  bean scope   -->
+    <!--    <bean id="alien" class="org.bytetech.Alien" scope="prototype">-->
+    <!--    </bean>-->
+
+    <bean id="alien" class="org.bytetech.Alien">
+        <!--    Setter Injection    -->
+        <!--        <property name="age" value="14"></property>-->
+        <!--        <property name="laptop" ref="laptop"/>-->
+
+
+        <!--    Constructor Injection    -->
+        <!--    By Type    -->
+        <!--        <constructor-arg type="org.bytetech.Laptop" ref="laptop"/>-->
+        <!--        <constructor-arg type="int" value="14"/>-->
+
+        <!--    By Index    -->
+        <!--        <constructor-arg index="0" value="14"/>-->
+        <!--        <constructor-arg  index="1" ref="laptop"/>-->
+
+        <!--    By Name    -->
+        <constructor-arg name="age" value="14"/>
+        <constructor-arg name="laptop" ref="laptop"/>
+
+    </bean>
+
+    <bean id="laptop" class="org.bytetech.Laptop">
+
+    </bean>
+
+</beans>
+
