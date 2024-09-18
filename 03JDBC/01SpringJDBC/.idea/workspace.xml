@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="538afc55-9971-4a91-af09-f8609446210a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/mode/Alien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/mode/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/mode/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/mode/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/repository/LaptopRepositroy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/java/com/tech/SpringBootFirst/service/LaptopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02Layers/01SpringBootLayers/src/test/java/com/tech/_SpringBootFirst/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Alien.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Alien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01DI_IOC/01SpringBootFirst/src/main/java/com/tech/springBootFirst/Laptop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2mEtDpi7KLjCK3dtZoHmYSfwCrK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SpringJdbcApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/suraj/Code/Udemy/03JDBC/01SpringJDBC/src/main/java/org/bytetech/SpringJDBC",
+    "last_opened_file_path": "/home/suraj/Code/Udemy/03JDBC/02SpringJDBCWithMysql",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538afc55-9971-4a91-af09-f8609446210a" name="Changes" comment="" />
+      <created>1726653446133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726653446133</updated>
+    </task>
+    <servers />
+  </component>
+</project>
