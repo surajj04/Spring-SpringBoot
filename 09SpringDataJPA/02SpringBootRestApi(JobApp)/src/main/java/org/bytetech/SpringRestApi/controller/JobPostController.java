@@ -25,11 +25,15 @@ public class JobPostController {
         return service.getJob(id);
     }
 
+    @GetMapping("/job/search/{keyword}")
+    public List<JobPost> searchByKeyword(@PathVariable String keyword) {
+        return service.search(keyword,keyword);
+    }
+
 //    @PostMapping(path = "/job",consumes = {"appliaction/xml"})
     @PostMapping("/job")
     public JobPost addJob(@RequestBody JobPost post) {
-        service.addJob(post);
-        return service.getJob(post.getId());
+        return service.addJob(post);
     }
 
     @PutMapping("/job")
@@ -40,9 +44,7 @@ public class JobPostController {
 
     @DeleteMapping("/job/{id}")
     public String deleteJob(@PathVariable int id) {
-        System.out.println("Delete method call....");
         String result = service.deleteJob(id);
-        System.out.println(result);
         return result;
     }
 

@@ -1,10 +1,14 @@
 package org.bytetech.SpringRestApi.model;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 import org.springframework.stereotype.Component;
 import java.util.List;
 
 @Component
+@Entity
 public class JobPost {
+    @Id
     private int id;
     private String title;
     private String location;

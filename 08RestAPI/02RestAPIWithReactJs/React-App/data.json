@@ -1,0 +1,174 @@
+{
+  "jobListings": [
+      {
+          "id": 1,
+          "jobTitle": "Software Engineer",
+          "description": "We are looking for a skilled Software Engineer to join our development team. You will be responsible for developing high-quality software solutions.",
+          "skills": [
+              "JavaScript",
+              "React",
+              "Node.js",
+              "SQL",
+              "Git"
+          ],
+          "company": "Tech Innovations",
+          "location": "New York, NY",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-25",
+          "experience": "3+ years in software development, with a focus on web applications."
+      },
+      {
+          "id": 2,
+          "jobTitle": "Product Manager",
+          "description": "Seeking a Product Manager to lead product development initiatives. You will work closely with engineering and marketing teams.",
+          "skills": [
+              "Agile Methodologies",
+              "User Experience Design",
+              "Market Research",
+              "Communication",
+              "Project Management"
+          ],
+          "company": "Creative Solutions",
+          "location": "San Francisco, CA",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-20",
+          "experience": "5 years of experience in product management, with a track record of successful product launches."
+      },
+      {
+          "id": 3,
+          "jobTitle": "Graphic Designer",
+          "description": "Looking for a creative Graphic Designer to create engaging visual content for various platforms.",
+          "skills": [
+              "Adobe Creative Suite",
+              "Typography",
+              "Branding",
+              "Illustration",
+              "HTML/CSS"
+          ],
+          "company": "Design Studio",
+          "location": "Austin, TX",
+          "employmentType": "Part-time",
+          "datePosted": "2024-09-22",
+          "experience": "2+ years in graphic design with a strong portfolio of creative projects."
+      },
+      {
+          "id": 4,
+          "jobTitle": "Data Analyst",
+          "description": "Join our team as a Data Analyst to interpret data and provide actionable insights.",
+          "skills": [
+              "Excel",
+              "SQL",
+              "Python",
+              "Data Visualization",
+              "Statistical Analysis"
+          ],
+          "company": "Analytics Corp",
+          "location": "Chicago, IL",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-15",
+          "experience": "4 years of experience in data analysis with proficiency in data visualization tools."
+      },
+      {
+          "id": 5,
+          "jobTitle": "Marketing Specialist",
+          "description": "We are looking for a Marketing Specialist to develop and execute marketing strategies.",
+          "skills": [
+              "SEO",
+              "Content Marketing",
+              "Social Media",
+              "Email Marketing",
+              "Analytics"
+          ],
+          "company": "Marketing Masters",
+          "location": "Los Angeles, CA",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-10",
+          "experience": "3 years of experience in marketing, with a focus on digital marketing strategies."
+      },
+      {
+          "id": 6,
+          "jobTitle": "Sales Representative",
+          "description": "Seeking a motivated Sales Representative to drive sales and build customer relationships.",
+          "skills": [
+              "Communication",
+              "Negotiation",
+              "CRM Software",
+              "Customer Service",
+              "Sales Strategy"
+          ],
+          "company": "Sales Solutions",
+          "location": "Miami, FL",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-05",
+          "experience": "2+ years of experience in sales, with a proven track record of meeting sales targets."
+      },
+      {
+          "id": 7,
+          "jobTitle": "Project Coordinator",
+          "description": "Looking for a Project Coordinator to assist in project management and ensure timely delivery.",
+          "skills": [
+              "Organizational Skills",
+              "Time Management",
+              "Communication",
+              "Microsoft Office",
+              "Team Collaboration"
+          ],
+          "company": "Project Partners",
+          "location": "Seattle, WA",
+          "employmentType": "Contract",
+          "datePosted": "2024-09-18",
+          "experience": "1-2 years of experience in project coordination, with strong organizational skills."
+      },
+      {
+          "id": 8,
+          "jobTitle": "UX/UI Designer",
+          "description": "We need a UX/UI Designer to create user-friendly interfaces and enhance user experience.",
+          "skills": [
+              "Wireframing",
+              "Prototyping",
+              "User Research",
+              "Adobe XD",
+              "Figma"
+          ],
+          "company": "Creative Agency",
+          "location": "Boston, MA",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-12",
+          "experience": "3+ years of experience in UX/UI design, with a portfolio showcasing user-centered designs."
+      },
+      {
+          "id": 9,
+          "jobTitle": "Network Administrator",
+          "description": "Join our IT team as a Network Administrator to manage and support our network infrastructure.",
+          "skills": [
+              "TCP/IP",
+              "DNS",
+              "Firewalls",
+              "Network Security",
+              "Troubleshooting"
+          ],
+          "company": "Tech Services",
+          "location": "Phoenix, AZ",
+          "employmentType": "Full-time",
+          "datePosted": "2024-09-14",
+          "experience": "5 years of experience in network administration, with strong troubleshooting skills."
+      },
+      {
+          "id": 10,
+          "jobTitle": "Content Writer",
+          "description": "We are seeking a talented Content Writer to produce high-quality written content for our website and blog.",
+          "skills": [
+              "SEO Writing",
+              "Research",
+              "Copywriting",
+              "Editing",
+              "Creative Writing"
+          ],
+          "company": "Content Creators",
+          "location": "Denver, CO",
+          "employmentType": "Freelance",
+          "datePosted": "2024-09-16",
+          "experience": "3+ years of experience in content writing, with a portfolio of published articles."
+      }
+  ]
+}
